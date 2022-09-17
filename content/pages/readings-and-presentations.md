@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course textbook and student
+  presentations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings and Presentations

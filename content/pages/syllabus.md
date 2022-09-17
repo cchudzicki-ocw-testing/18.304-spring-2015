@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, the textbook, reqruirements, resources, grading,
+  collaboration, and the schedule of activities and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
